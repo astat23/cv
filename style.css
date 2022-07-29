@@ -1,0 +1,178 @@
+.left-container{
+	position: fixed;
+	width: 400px;
+	height: 100vh;
+	background-color: #8EA69B;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.photo {
+	width: 50%;
+	border-radius: 50%;
+}
+
+.photo-contact {
+	position: absolute;
+	top : 50px;
+	text-align: center;
+}
+
+.btn {
+	width: 50%;
+	background-color: gold;
+	border-radius: 14px;
+	margin-bottom: 12px;
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding: 7px;
+}
+
+.btn:hover {
+	background-color: #20B2AA;
+	color: black;
+	transition: 1s;
+}
+
+.right-container {
+	position: absolute;
+	left: 400px;
+}
+
+.top-bar {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-left: 100px;
+	background-color: #ff106c;
+
+
+}
+
+.list-menu {
+	float: right;
+	padding-right: 50px;
+	font-size: 60%;
+	font-family: bold;
+
+	}
+
+.menu {
+	font-size: 1.1rem;
+	padding: 5px 2px;
+	font-family: bold;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.title {
+	font-style: italic;
+	font-size: 1.5rem;
+	color: white;
+	font-family: bold;
+}
+
+#profile {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+}
+
+#tentang {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #FFE4B5;
+	padding-bottom: 50px;
+}
+
+#pendidikan {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #AFEEEE;
+	padding-bottom: 50px;
+}
+
+#kemampuan {
+	padding-top: 50px;
+	padding-left: 100px;
+	background-color: #FFE4B5;
+	padding-bottom: 50px;
+}
+
+#kerja {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #AFEEEE;
+	padding-bottom: 50px;
+}
+
+#organisasi {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+	padding-right: 100px;
+	background-color: #FFE4B5;
+}
+
+#footer {
+	padding-top: 1px;
+	text-align: center;
+	background-color: #ff106c;
+	padding-bottom: 1px;
+	color: white;
+
+}line-height: 150%;
+
+li {
+	line-height: 200%;
+}
+
+p {
+	line-height: 150%;
+}
+
+
+.gb {
+	line-height: 0%;
+}
+
+h2, h3, h1{
+	line-height: 150%;
+}
+
+.code {
+	width: 45%;
+	padding-right: 10px;
+	float: right;
+}
+
+#bahasa {
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #AFEEEE;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.m {
+	line-height: 50%;
+}
+
+#hobi {
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #FFE4B5;
+	padding-bottom: 10px;
+	text-align: center;
+}
